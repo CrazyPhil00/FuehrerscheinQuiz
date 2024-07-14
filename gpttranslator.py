@@ -1,6 +1,47 @@
+'''
+
+import fitz
+
+
+def extract_images_from_pdf(pdf_path):
+    """
+    Extracts and counts unique images from a PDF document.
+
+    Parameters:
+    pdf_path (str): Path to the PDF file.
+
+    Returns:
+    int: Total number of unique images found in the PDF.
+    """
+    document = fitz.open(pdf_path)
+    image_count = set()  # Use a set to track unique images
+
+    for page_num in range(len(document)):
+        page = document.load_page(page_num)
+        images_on_page = page.get_images(full=True)
+
+        for img in images_on_page:
+            # Generate a unique key for each image based on its index and width
+            image_key = f"{img[0]}_{img[1]}"
+            if image_key not in image_count:
+                image_count.add(image_key)
+                # Optionally, handle the image as needed (e.g., save it, log it, etc.)
+
+    return len(image_count)
+
+if __name__ == "__main__":
+    pdf_path = 'DomandeB.pdf'  # Replace with your PDF file path
+    num_unique_images = extract_images_from_pdf(pdf_path)
+    print(f"Found {num_unique_images} unique images.")
+    '''
+
+
+
+
+import clipboard
 import fitz
 import re
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, ChatGptTranslator
 import json
 
 
@@ -64,26 +105,15 @@ pdf_path = 'DomandeB.pdf'
 quiz_data = extract_quiz_data(pdf_path)
 print(f"Extracted {len(quiz_data)} questions from the PDF")
 
+i = 0
 
-def translate_questions_create_new_array(quiz_data):
-    i = 1
-    translated_quiz_data = []
-    for item in quiz_data:
-        translated_item = {
-            'numero_domanda': item['numero_domanda'],
-            'testo_domanda': GoogleTranslator(source='it', target='de').translate(item['testo_domanda']),
-            'risposta_corretta': item['risposta_corretta'],
-            'has_image': item['has_image']
-        }
-        translated_quiz_data.append(translated_item)
-        print(f"Translated question {i}")
-        i +=1
-    return translated_quiz_data
+from transformers import AutoTokenizer
+tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
 
+chat = [
+   {"role": "user", "content": "Hello, how are you?"},
+   {"role": "assistant", "content": "I'm doing great. How can I help you today?"},
+   {"role": "user", "content": "I'd like to show off how chat templating works!"},
+]
 
-# Assuming quiz_data is already populated with your data
-translated_quiz_data = translate_questions_create_new_array(quiz_data)
-
-# Save the translated quiz data to a JSON file
-with open('quiz_data.json', 'w') as outfile:
-    json.dump(translated_quiz_data, outfile, ensure_ascii=False, indent=4)
+tokenizer.apply_chat_template(chat, tokenize=False)

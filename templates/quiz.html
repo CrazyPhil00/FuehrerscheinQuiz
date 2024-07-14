@@ -42,7 +42,10 @@
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         .question {
+            padding: 20px;
             margin-bottom: 20px;
+            border: 2px solid rgb(151, 153, 152);
+            border-radius: 5px;
         }
         .question p {
             font-size: 18px;
@@ -118,8 +121,8 @@
                     </div>
                     <p>{{ question['numero_domanda'] }}. {{ question['testo_domanda'] }}</p>
                     <div class="options">
-                        <input type="radio" name="{{ question['numero_domanda'] }}" value="VERO" required> VERO
-                        <input type="radio" name="{{ question['numero_domanda'] }}" value="FALSO" required> FALSO
+                        <input type="radio" name="{{ question['numero_domanda'] }}" value="Richtig" required> VERO
+                        <input type="radio" name="{{ question['numero_domanda'] }}" value="Falsch" required> FALSO
                     </div>
                     <div class="clear"></div>
                 </div>

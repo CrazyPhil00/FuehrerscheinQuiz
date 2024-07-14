@@ -4,6 +4,7 @@ from flask import Flask, render_template, request, redirect, url_for
 import random
 import time
 
+
 def extract_quiz_data(pdf_path):
     document = fitz.open(pdf_path)
     quiz_data = []
@@ -55,7 +56,7 @@ def extract_quiz_data(pdf_path):
                         'numero_domanda': numero_domanda,
                         'testo_domanda': testo_domanda,
                         'risposta_corretta': risposta_corretta,
-                        'has_image': f"images/DomandeB.pdf-image-{list(image_count_set).index(image_key)+1}.jpg"
+                        'has_image': f"images/DomandeB.pdf-image-{list(image_count_set).index(image_key) + 1}.jpg"
                     })
                 else:
                     quiz_data.append({
@@ -68,15 +69,18 @@ def extract_quiz_data(pdf_path):
     print(f"Found {len(image_count_set)} unique images")
     return quiz_data
 
+
 app = Flask(__name__)
 
 # Load the quiz data (already extracted in the previous step)
 quiz_data = extract_quiz_data('DomandeB.pdf')
 
+
 # Route for the home page
 @app.route('/')
 def home():
     return render_template('home.html')
+
 
 # Route to start the quiz
 @app.route('/start_quiz')
@@ -85,17 +89,40 @@ def start_quiz():
     start_time = time.time()
     return render_template('quiz.html', questions=selected_questions, start_time=start_time)
 
+
 # Route to handle quiz submission
 @app.route('/submit_quiz', methods=['POST'])
 def submit_quiz():
     answers = request.form
     score = 0
+    result = []
+
+    # Create a dictionary for easy access to user answers
+    user_answers = {key: answers.get(key) for key in answers}
+
     for question in quiz_data:
         question_id = question['numero_domanda']
-        if question_id in answers:
-            if answers[question_id] == question['risposta_corretta']:
+        user_answer = user_answers.get(question_id)
+
+        if user_answer:
+            if user_answer == question['risposta_corretta']:
                 score += 1
-    return render_template('result.html', score=score)
+                result.append({
+                    'question_id': question_id,
+                    'text': question['testo_domanda'],
+                    'user_answer': user_answer,
+                    'correct': True
+                })
+            else:
+                result.append({
+                    'question_id': question_id,
+                    'text': question['testo_domanda'],
+                    'user_answer': user_answer,
+                    'correct': False,
+                    'correct_answer': question['risposta_corretta']
+                })
+
+    return render_template('result.html', score=score, result=result)
 
 if __name__ == '__main__':
     app.run(debug=True)
