@@ -1,3 +1,4 @@
+import json
 import re
 import fitz
 from flask import Flask, render_template, request, redirect, url_for
@@ -73,7 +74,10 @@ def extract_quiz_data(pdf_path):
 app = Flask(__name__)
 
 # Load the quiz data (already extracted in the previous step)
-quiz_data = extract_quiz_data('DomandeB.pdf')
+# quiz_data = extract_quiz_data('DomandeB.pdf')
+
+with open("questions.json", "r") as file:
+    quiz_data = json.load(file)
 
 
 # Route for the home page
@@ -101,28 +105,29 @@ def submit_quiz():
     user_answers = {key: answers.get(key) for key in answers}
 
     for question in quiz_data:
-        question_id = question['numero_domanda']
+        question_id = question['id']
         user_answer = user_answers.get(question_id)
 
         if user_answer:
-            if user_answer == question['risposta_corretta']:
+            if user_answer == question['is_true']:
                 score += 1
                 result.append({
                     'question_id': question_id,
-                    'text': question['testo_domanda'],
+                    'text': question['text_translated'],
                     'user_answer': user_answer,
                     'correct': True
                 })
             else:
                 result.append({
                     'question_id': question_id,
-                    'text': question['testo_domanda'],
+                    'text': question['text_translated'],
                     'user_answer': user_answer,
                     'correct': False,
-                    'correct_answer': question['risposta_corretta']
+                    'correct_answer': question['is_true']
                 })
 
     return render_template('result.html', score=score, result=result)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

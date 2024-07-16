@@ -1,0 +1,1157 @@
+[
+    {
+        "id": "21810",
+        "text": "Il segnale raffigurato preavvisa confine di Stato con un Paese che fa parte dell'Unione Europea",
+        "text_translated": "Das abgebildete Schild warnt vor der Staatsgrenze zu einem Land, das Mitglied der Europäischen Union ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-001.jpg"
+    },
+    {
+        "id": "21811",
+        "text": "Il segnale raffigurato è posto sulle strade che portano al confine di Stato con un Paese dell'Unione Europea",
+        "text_translated": "Das abgebildete Schild befindet sich an Straßen, die zur Staatsgrenze mit einem Land der Europäischen Union führen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-002.jpg"
+    },
+    {
+        "id": "21812",
+        "text": "Il segnale raffigurato preavvisa la distanza dal confine con uno Stato che fa parte dell'Unione Europea",
+        "text_translated": "Das abgebildete Schild warnt vor der Entfernung zur Grenze zu einem Land, das Mitglied der Europäischen Union ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-003.jpg"
+    },
+    {
+        "id": "21813",
+        "text": "Il segnale raffigurato non obbliga ad arrestarsi per il controllo doganale al confine di Stato",
+        "text_translated": "Das abgebildete Schild verpflichtet nicht zum Anhalten zur Zollkontrolle an der Staatsgrenze",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-004.jpg"
+    },
+    {
+        "id": "21814",
+        "text": "Il segnale raffigurato si trova in vicinanza di un posto di blocco",
+        "text_translated": "Das abgebildete Schild befindet sich in der Nähe eines Kontrollpunktes",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-005.jpg"
+    },
+    {
+        "id": "21815",
+        "text": "Il segnale raffigurato è posto dietro ai veicoli, per indicarne la nazionalità",
+        "text_translated": "Das abgebildete Schild befindet sich hinter den Fahrzeugen, um deren Nationalität anzuzeigen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-006.jpg"
+    },
+    {
+        "id": "21816",
+        "text": "Il segnale raffigurato è posto dietro al veicolo, per indicare che esso appartiene ad un cittadino dell'Unione Europea",
+        "text_translated": "Das abgebildete Schild befindet sich hinter dem Fahrzeug, um anzuzeigen, dass es einem Bürger der Europäischen Union gehört",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-007.jpg"
+    },
+    {
+        "id": "21817",
+        "text": "Il segnale raffigurato preavvisa l'obbligo di arresto alla frontiera con uno Stato dell'Unione Europea",
+        "text_translated": "Das abgebildete Schild weist auf die Pflicht hin, an der Grenze zu einem Staat der Europäischen Union anzuhalten",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-008.jpg"
+    },
+    {
+        "id": "21818",
+        "text": "Il segnale raffigurato obbliga ad arrestarsi per il controllo doganale all'ingresso nel territorio di un Paese europeo",
+        "text_translated": "Das abgebildete Schild verpflichtet zum Anhalten zur Zollkontrolle beim Betreten des Gebiets eines europäischen Landes",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-009.jpg"
+    },
+    {
+        "id": "21819",
+        "text": "Il segnale raffigurato è posto in vicinanza di un cantiere stradale",
+        "text_translated": "Das abgebildete Schild befindet sich in der Nähe einer Baustelle",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-010.jpg"
+    },
+    {
+        "id": "21825",
+        "text": "Il segnale raffigurato consiglia a tutti i veicoli di seguire la direzione indicata dalla freccia",
+        "text_translated": "Das abgebildete Schild empfiehlt allen Fahrzeugen, der durch den Pfeil angezeigten Richtung zu folgen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-016.jpg"
+    },
+    {
+        "id": "20454",
+        "text": "Il segnale raffigurato preannuncia una svolta obbligatoria a destra per gli autocarri di massa superiore a 3,5 t",
+        "text_translated": "Das abgebildete Schild kündigt eine verpflichtende Rechtsabbiegespur für Lastkraftwagen über 3,5 t an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-017.jpg"
+    },
+    {
+        "id": "20455",
+        "text": "Il segnale raffigurato vieta agli autocarri di massa superiore a 3,5 t di proseguire diritto",
+        "text_translated": "Das abgebildete Schild verbietet Lastkraftwagen über 3,5 t, geradeaus weiterzufahren",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-018.jpg"
+    },
+    {
+        "id": "20456",
+        "text": "Il segnale raffigurato preannuncia l'obbligo di svoltare a destra per i veicoli rappresentati nel segnale stesso",
+        "text_translated": "Das abgebildete Schild kündigt die Verpflichtung zum Rechtsabbiegen für die Fahrzeuge an, die auf dem Schild dargestellt sind",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-019.jpg"
+    },
+    {
+        "id": "20457",
+        "text": "Il segnale raffigurato preannuncia un divieto di svolta a sinistra per gli autocarri di massa superiore a 3,5 t",
+        "text_translated": "Das abgebildete Schild kündigt ein Linksabbiegeverbot für Lastkraftwagen über 3,5 t an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-020.jpg"
+    },
+    {
+        "id": "20458",
+        "text": "Il segnale raffigurato preannuncia una svolta obbligatoria per i veicoli rappresentati nel segnale stesso",
+        "text_translated": "Das abgebildete Schild kündigt eine obligatorische Richtungsänderung für die im Schild dargestellten Fahrzeuge an.",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-021.jpg"
+    },
+    {
+        "id": "20459",
+        "text": "Il segnale raffigurato preannuncia che gli autocarri oltre 3,5 t devono svoltare nella direzione della freccia",
+        "text_translated": "Das abgebildete Schild kündigt an, dass Lastkraftwagen über 3,5 t in Richtung des Pfeiles abbiegen müssen.",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-022.jpg"
+    },
+    {
+        "id": "20460",
+        "text": "Il segnale raffigurato preannuncia un posto di rifornimento per autocarri",
+        "text_translated": "Das abgebildete Schild kündigt eine Tankstelle für Lastkraftwagen an.",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-023.jpg"
+    },
+    {
+        "id": "20461",
+        "text": "Il segnale raffigurato preannuncia che per gli autocarri è consigliato svoltare a destra",
+        "text_translated": "Das abgebildete Schild kündigt an, dass Lastkraftwagen empfohlen wird, nach rechts abzubiegen.",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-024.jpg"
+    },
+    {
+        "id": "20462",
+        "text": "Il segnale raffigurato preannuncia il divieto di svoltare a destra per i veicoli rappresentati in figura",
+        "text_translated": "Das abgebildete Schild kündigt ein Rechtsabbiegeverbot für die im Bild dargestellten Fahrzeuge an.",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-025.jpg"
+    },
+    {
+        "id": "20463",
+        "text": "Il segnale raffigurato preannuncia un'area di parcheggio riservata agli autocarri",
+        "text_translated": "Das abgebildete Schild kündigt einen Bereich für Lastwagenparkplätze an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-026.jpg"
+    },
+    {
+        "id": "20464",
+        "text": "Il segnale raffigurato preannuncia un segnale di obbligo di svoltare a sinistra per tutti gli autocarri",
+        "text_translated": "Das abgebildete Schild kündigt an, dass alle Lastwagen nach links abbiegen müssen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-027.jpg"
+    },
+    {
+        "id": "20465",
+        "text": "Il segnale raffigurato preannuncia una curva pericolosa a destra per gli autocarri in transito",
+        "text_translated": "Das abgebildete Schild kündigt eine gefährliche Rechtskurve für Lastwagen an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-028.jpg"
+    },
+    {
+        "id": "22105",
+        "text": "Il pannello integrativo raffigurato preavvisa che temporaneamente manca la segnaletica orizzontale sulla carreggiata",
+        "text_translated": "Das abgebildete Zusatzschild warnt davor, dass vorübergehend die horizontale Straßenmarkierung fehlt",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-029.jpg"
+    },
+    {
+        "id": "22106",
+        "text": "Il pannello integrativo raffigurato indica un tratto di strada sul quale non è temporaneamente presente la segnaletica orizzontale",
+        "text_translated": "Das abgebildete Zusatzschild zeigt einen Straßenabschnitt an, auf dem vorübergehend keine horizontale Straßenmarkierung vorhanden ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-030.jpg"
+    },
+    {
+        "id": "22112",
+        "text": "Il pannello integrativo raffigurato preavvisa l'inizio di un tratto di strada a senso unico",
+        "text_translated": "Die abgebildete Zusatztafel warnt vor dem Beginn einer Einbahnstraße",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-036.jpg"
+    },
+    {
+        "id": "22113",
+        "text": "Il pannello integrativo raffigurato indica che non è consentito superare la linea continua",
+        "text_translated": "Das abgebildete Zusatzschild zeigt an, dass das Überfahren der durchgehenden Linie nicht erlaubt ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-037.jpg"
+    },
+    {
+        "id": "22114",
+        "text": "Il pannello integrativo raffigurato invita a rallentare a causa di un incidente",
+        "text_translated": "Das abgebildete Zusatzschild fordert dazu auf, aufgrund eines Unfalls abzubremsen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-038.jpg"
+    },
+    {
+        "id": "22115",
+        "text": "Il pannello integrativo raffigurato indica veicoli incidentati sulla carreggiata",
+        "text_translated": "Das abgebildete Zusatzschild zeigt Unfallfahrzeuge auf der Fahrbahn an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-039.jpg"
+    },
+    {
+        "id": "22116",
+        "text": "Il pannello integrativo raffigurato segnala che la carreggiata è occupata da veicoli incidentati",
+        "text_translated": "Das abgebildete Zusatzschild zeigt an, dass die Fahrbahn von Unfallfahrzeugen blockiert ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-040.jpg"
+    },
+    {
+        "id": "22117",
+        "text": "Il pannello integrativo raffigurato segnala un incidente stradale e che quindi occorre diminuire la velocità",
+        "text_translated": "Das abgebildete Zusatzschild zeigt einen Verkehrsunfall an und weist darauf hin, dass die Geschwindigkeit verringert werden muss",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-041.jpg"
+    },
+    {
+        "id": "22118",
+        "text": "Il pannello integrativo raffigurato indica una strada sdrucciolevole",
+        "text_translated": "Das abgebildete Zusatzschild zeigt eine rutschige Straße an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-042.jpg"
+    },
+    {
+        "id": "22119",
+        "text": "Il pannello integrativo raffigurato indica di fermarsi e dare la precedenza a destra",
+        "text_translated": "Das abgebildete Zusatzschild zeigt an, dass man anhalten und dem Verkehr von rechts Vorrang gewähren muss",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-043.jpg"
+    },
+    {
+        "id": "22120",
+        "text": "Il pannello integrativo raffigurato si trova solo se l'incidente è avvenuto in autostrada",
+        "text_translated": "Das abgebildete Zusatzschild befindet sich nur, wenn der Unfall auf der Autobahn passiert ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-044.jpg"
+    },
+    {
+        "id": "22121",
+        "text": "Il pannello integrativo raffigurato indica un divieto di sosta",
+        "text_translated": "Das abgebildete Zusatzschild zeigt ein Parkverbot an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-045.jpg"
+    },
+    {
+        "id": "22122",
+        "text": "Il pannello integrativo raffigurato preavvisa la presenza di un garage per veicoli incidentati",
+        "text_translated": "Das abgebildete Zusatzschild weist auf die Anwesenheit einer Garage für Unfallfahrzeuge hin",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-046.jpg"
+    },
+    {
+        "id": "22123",
+        "text": "Il pannello integrativo raffigurato indica di accendere le luci per evitare incidenti",
+        "text_translated": "Das abgebildete Zusatzschild fordert dazu auf, die Lichter einzuschalten, um Unfälle zu vermeiden",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-047.jpg"
+    },
+    {
+        "id": "22156",
+        "text": "Il pannello integrativo raffigurato indica la possibilità di trovare veicoli fermi in colonna",
+        "text_translated": "Das abgebildete Zusatzschild weist auf die Möglichkeit hin, aufeinanderfolgende Fahrzeuge zu finden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-048.jpg"
+    },
+    {
+        "id": "22157",
+        "text": "Il pannello integrativo raffigurato si può trovare all'ingresso delle autostrade, per indicare che vi sono veicoli in lento movimento",
+        "text_translated": "Das abgebildete Zusatzschild kann am Eingang von Autobahnen zu finden sein, um anzuzeigen, dass sich Fahrzeuge langsam bewegen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-049.jpg"
+    },
+    {
+        "id": "22158",
+        "text": "Il pannello integrativo raffigurato invita ad usare prudenza, per non tamponare veicoli fermi per intasamento del traffico",
+        "text_translated": "Das abgebildete Zusatzschild fordert zur Vorsicht auf, um stehende Fahrzeuge aufgrund von Verkehrsstaus nicht zu rammen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-050.jpg"
+    },
+    {
+        "id": "22159",
+        "text": "Il pannello integrativo raffigurato, posto sull'autostrada, può consigliare di uscire per evitare probabili rallentamenti o code",
+        "text_translated": "Das abgebildete Zusatzzeichen auf der Autobahn kann empfehlen, die Ausfahrt zu nehmen, um mögliche Verzögerungen oder Staus zu vermeiden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-051.jpg"
+    },
+    {
+        "id": "22160",
+        "text": "Il pannello raffigurato indica un'area di parcheggio per autovetture",
+        "text_translated": "Das abgebildete Schild zeigt einen Parkplatz für PKW an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-052.jpg"
+    },
+    {
+        "id": "22161",
+        "text": "Il pannello integrativo raffigurato indica che la corsia di sinistra è riservata ai veicoli che pagano il pedaggio autostradale tramite telepass",
+        "text_translated": "Das abgebildete Zusatzzeichen zeigt an, dass die linke Spur für Fahrzeuge reserviert ist, die die Autobahngebühr mit Telepass bezahlen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-053.jpg"
+    },
+    {
+        "id": "22162",
+        "text": "Il pannello integrativo raffigurato indica una strada a senso unico",
+        "text_translated": "Das abgebildete Zusatzzeichen zeigt eine Einbahnstraße an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-054.jpg"
+    },
+    {
+        "id": "22163",
+        "text": "Il pannello integrativo raffigurato indica l'obbligo di sorpassare a sinistra",
+        "text_translated": "Das abgebildete Zusatzzeichen zeigt die Verpflichtung zum Überholen links an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-055.jpg"
+    },
+    {
+        "id": "22234",
+        "text": "La presenza di uno dei due pannelli integrativi in figura indica la vicinanza di una o più curve particolarmente pericolose",
+        "text_translated": "Das Vorhandensein eines der beiden ergänzenden Schilder auf dem Bild weist auf die Nähe einer oder mehrerer besonders gefährlicher Kurven hin",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-061.jpg"
+    },
+    {
+        "id": "22236",
+        "text": "La presenza di uno dei due pannelli integrativi in figura può indicare uno o più tornanti",
+        "text_translated": "Das Vorhandensein eines der beiden ergänzenden Schilder auf dem Bild kann auf eine oder mehrere Serpentinen hinweisen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-062.jpg"
+    },
+    {
+        "id": "22238",
+        "text": "Il pannello integrativo di figura B indica il numero di corsie di cui è composta la strada",
+        "text_translated": "Das ergänzende Schild in Abbildung B zeigt die Anzahl der Fahrspuren, aus denen die Straße besteht",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-063.jpg"
+    },
+    {
+        "id": "22239",
+        "text": "Il pannello integrativo di figura B indica quanti veicoli contemporaneamente possono percorrere la curva",
+        "text_translated": "Das ergänzende Schild in Abbildung B zeigt an, wie viele Fahrzeuge gleichzeitig die Kurve passieren können",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-064.jpg"
+    },
+    {
+        "id": "22240",
+        "text": "Il pannello integrativo di figura B indica quanti chilometri mancano per poter trovare un cavalcavia che consente di invertire il senso di marcia",
+        "text_translated": "Das ergänzende Schild in Abbildung B zeigt an, wie viele Kilometer es noch sind, um eine Überführung zu erreichen, die es ermöglicht, die Fahrtrichtung zu ändern",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-065.jpg"
+    },
+    {
+        "id": "22241",
+        "text": "Il pannello integrativo di figura B indica il numero degli svincoli autostradali",
+        "text_translated": "Das Zusatzzeichen in Abbildung B gibt die Anzahl der Autobahnausfahrten an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-066.jpg"
+    },
+    {
+        "id": "22242",
+        "text": "La presenza di uno dei due pannelli integrativi in figura indica l'incrocio con una strada dalla quale si immettono autocarri provenienti da una discarica",
+        "text_translated": "Die Anwesenheit eines der beiden Zusatzzeichen in der Abbildung zeigt die Kreuzung mit einer Straße an, von der Lastwagen aus einer Deponie einfahren",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-067.jpg"
+    },
+    {
+        "id": "22243",
+        "text": "Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che la sosta è vietata solo in determinate ore dei giorni indicati",
+        "text_translated": "Das Zusatzzeichen in der Abbildung unter dem Halteverbotsschild gibt an, dass das Parken nur zu bestimmten Zeiten an den angegebenen Tagen verboten ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-068.jpg"
+    },
+    {
+        "id": "22244",
+        "text": "Il pannello integrativo in figura è posto nei tratti di strada dove vengono effettuate operazioni di pulizia delle strade con autospazzatrici",
+        "text_translated": "Das Zusatzzeichen in der Abbildung wird an Straßenabschnitten angebracht, an denen Straßenreinigung mit Kehrmaschinen durchgeführt wird",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-069.jpg"
+    },
+    {
+        "id": "22245",
+        "text": "Il pannello integrativo in figura indica i giorni e le ore in cui si effettuano operazioni di pulizia della strada con autospazzatrici",
+        "text_translated": "Das Zusatzzeichen in der Abbildung zeigt die Tage und Stunden an, zu denen Straßenreinigungsarbeiten mit Kehrmaschinen durchgeführt werden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-070.jpg"
+    },
+    {
+        "id": "22246",
+        "text": "Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che la sosta è vietata solo in alcune ore dei giorni indicati",
+        "text_translated": "Das zusätzliche Schild auf dem Bild unter dem Halteverbotsschild zeigt an, dass das Halten nur zu bestimmten Zeiten an bestimmten Tagen verboten ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-071.jpg"
+    },
+    {
+        "id": "22247",
+        "text": "Il pannello integrativo in figura indica l'orario per il deposito della spazzatura",
+        "text_translated": "Das zusätzliche Schild auf dem Bild zeigt die Uhrzeit für das Abstellen von Müll an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-072.jpg"
+    },
+    {
+        "id": "22248",
+        "text": "Il pannello integrativo in figura indica i giorni di apertura degli autolavaggi",
+        "text_translated": "Das zusätzliche Schild auf dem Bild zeigt die Öffnungstage der Autowaschanlagen an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-073.jpg"
+    },
+    {
+        "id": "22249",
+        "text": "Il pannello integrativo in figura obbliga a dare la precedenza agli autocarri",
+        "text_translated": "Das zusätzliche Schild auf dem Bild verlangt, dass LKWs Vorfahrt gewährt wird",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-074.jpg"
+    },
+    {
+        "id": "22250",
+        "text": "Il pannello integrativo in figura, posto sotto il segnale DIVIETO DI SOSTA, indica che non possono sostare i veicoli rappresentati",
+        "text_translated": "Das zusätzliche Schild auf dem Bild unter dem Halteverbotsschild zeigt an, dass die abgebildeten Fahrzeuge nicht parken dürfen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-075.jpg"
+    },
+    {
+        "id": "22256",
+        "text": "I pannelli integrativi in figura indicano come lasciare il veicolo in sosta",
+        "text_translated": "Die ergänzenden Schilder im Bild zeigen an, wie das Fahrzeug abgestellt werden soll",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-081.jpg"
+    },
+    {
+        "id": "22257",
+        "text": "I pannelli integrativi in figura vengono posti anche sulle autostrade",
+        "text_translated": "Die ergänzenden Schilder im Bild werden auch auf Autobahnen angebracht",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-082.jpg"
+    },
+    {
+        "id": "22258",
+        "text": "I pannelli integrativi in figura indicano strade senza uscita",
+        "text_translated": "Die ergänzenden Schilder im Bild weisen auf Sackgassen hin",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-083.jpg"
+    },
+    {
+        "id": "22259",
+        "text": "I pannelli integrativi in figura indicano la presenza di sottopassaggi",
+        "text_translated": "Die ergänzenden Schilder im Bild zeigen die Anwesenheit von Unterführungen an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-084.jpg"
+    },
+    {
+        "id": "22260",
+        "text": "I pannelli integrativi in figura indicano che le strade che si incrociano sono momentaneamente interrotte",
+        "text_translated": "Die ergänzenden Schilder im Bild zeigen an, dass die sich kreuzenden Straßen vorübergehend unterbrochen sind",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-085.jpg"
+    },
+    {
+        "id": "21901",
+        "text": "Il segnale raffigurato indica la chiusura della corsia di destra per lavori in corso",
+        "text_translated": "Das abgebildete Schild zeigt die Schließung der rechten Fahrspur wegen Bauarbeiten",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-086.jpg"
+    },
+    {
+        "id": "21902",
+        "text": "Il segnale raffigurato indica una diminuzione da due a una corsia di marcia",
+        "text_translated": "Das abgebildete Schild zeigt eine Reduzierung von zwei auf eine Fahrspur",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-087.jpg"
+    },
+    {
+        "id": "21904",
+        "text": "Il segnale raffigurato può essere completato con pannello che indica la distanza dal punto di chiusura della corsia",
+        "text_translated": "Das abgebildete Schild kann mit einem Panel ergänzt werden, das die Entfernung vom Punkt der Sperrung der Fahrspur angibt",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-088.jpg"
+    },
+    {
+        "id": "21905",
+        "text": "Il segnale raffigurato indica restringimento della carreggiata per lavori in corso",
+        "text_translated": "Das abgebildete Schild zeigt eine Verengung der Fahrbahn wegen Bauarbeiten",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-089.jpg"
+    },
+    {
+        "id": "21906",
+        "text": "Il segnale raffigurato indica la possibilità di sorpassare a destra",
+        "text_translated": "Das abgebildete Schild weist auf die Möglichkeit hin, rechts zu überholen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-090.jpg"
+    },
+    {
+        "id": "21907",
+        "text": "Il segnale raffigurato preannuncia uno svincolo che consente l'inversione di marcia",
+        "text_translated": "Das abgebildete Schild kündigt eine Ausfahrt an, die das Wenden ermöglicht",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-091.jpg"
+    },
+    {
+        "id": "21908",
+        "text": "Il segnale raffigurato si trova in vicinanza di un incrocio",
+        "text_translated": "Das abgebildete Schild befindet sich in der Nähe einer Kreuzung",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-092.jpg"
+    },
+    {
+        "id": "21909",
+        "text": "Il segnale raffigurato indica una piazzola per la fermata degli autobus",
+        "text_translated": "Das abgebildete Schild zeigt einen Busparkplatz an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-093.jpg"
+    },
+    {
+        "id": "21910",
+        "text": "Il segnale raffigurato indica la chiusura della corsia per i veicoli lenti",
+        "text_translated": "Das abgebildete Schild zeigt das Ende der Fahrspur für langsame Fahrzeuge an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-094.jpg"
+    },
+    {
+        "id": "21911",
+        "text": "Il segnale raffigurato obbliga a dare la precedenza ai veicoli provenienti da destra",
+        "text_translated": "Das abgebildete Schild verlangt, dass man Fahrzeugen von rechts Vorfahrt gewährt",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-095.jpg"
+    },
+    {
+        "id": "21323",
+        "text": "Il segnale raffigurato indica un posto di telefono pubblico nelle vicinanze",
+        "text_translated": "Das abgebildete Schild deutet auf ein öffentliches Telefon in der Nähe hin",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-096.jpg"
+    },
+    {
+        "id": "21324",
+        "text": "Il segnale raffigurato indica che siamo in vicinanza di un apparecchio telefonico pubblico",
+        "text_translated": "Das abgebildete Schild deutet darauf hin, dass wir uns in der Nähe eines öffentlichen Telefonapparats befinden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-097.jpg"
+    },
+    {
+        "id": "21325",
+        "text": "Il segnale raffigurato indica la possibilità, a breve distanza, di poter telefonare da un telefono pubblico",
+        "text_translated": "Das abgebildete Schild weist darauf hin, dass es in kurzer Entfernung die Möglichkeit gibt, von einem öffentlichen Telefon aus anzurufen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-098.jpg"
+    },
+    {
+        "id": "21326",
+        "text": "Il segnale raffigurato indica un apparecchio telefonico pubblico posto su strade extraurbane",
+        "text_translated": "Das abgebildete Schild deutet auf einen öffentlichen Telefonapparat an Landstraßen hin",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-099.jpg"
+    },
+    {
+        "id": "21327",
+        "text": "Il segnale raffigurato indica la vicinanza di un negozio di telefonia mobile",
+        "text_translated": "Das abgebildete Schild deutet auf die Nähe eines Mobilfunkgeschäfts hin",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-100.jpg"
+    },
+    {
+        "id": "21328",
+        "text": "Il segnale raffigurato indica un posto di pronto soccorso raggiungibile per telefono",
+        "text_translated": "Das abgebildete Schild zeigt einen erreichbaren Notrufplatz über Telefon an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-101.jpg"
+    },
+    {
+        "id": "21329",
+        "text": "Il segnale raffigurato indica la possibilità di ricaricare i telefoni cellulari",
+        "text_translated": "Das abgebildete Schild zeigt die Möglichkeit, Mobiltelefone aufzuladen, an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-102.jpg"
+    },
+    {
+        "id": "21330",
+        "text": "Il segnale raffigurato indica che è vietato usare i telefoni cellulari",
+        "text_translated": "Das abgebildete Schild zeigt an, dass die Verwendung von Mobiltelefonen verboten ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-103.jpg"
+    },
+    {
+        "id": "21331",
+        "text": "Il segnale raffigurato indica una zona sufficientemente coperta dal segnale per telefonia mobile",
+        "text_translated": "Das abgebildete Schild zeigt eine ausreichend abgedeckte Mobilfunkzone an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-104.jpg"
+    },
+    {
+        "id": "21332",
+        "text": "Il segnale raffigurato indica che è consentito telefonare solo con cellulari a viva voce",
+        "text_translated": "Das abgebildete Schild zeigt an, dass das Telefonieren nur mit Freisprecheinrichtung gestattet ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-105.jpg"
+    },
+    {
+        "id": "21333",
+        "text": "Il segnale raffigurato indica un posto di rifornimento carburante",
+        "text_translated": "Das abgebildete Schild zeigt eine Tankstelle an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-106.jpg"
+    },
+    {
+        "id": "21334",
+        "text": "Il segnale raffigurato indica che nelle vicinanze vi è un posto di distribuzione carburante",
+        "text_translated": "Das abgebildete Schild zeigt an, dass in der Nähe eine Tankstelle ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-107.jpg"
+    },
+    {
+        "id": "21335",
+        "text": "Il segnale raffigurato indica la possibilità di rifornimento carburante a breve distanza",
+        "text_translated": "Das abgebildete Schild zeigt die Möglichkeit einer Tankstelle in kurzer Entfernung an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-108.jpg"
+    },
+    {
+        "id": "21336",
+        "text": "Il segnale raffigurato indica che a breve distanza vi è una stazione di rifornimento carburante",
+        "text_translated": "Das abgebildete Schild zeigt an, dass in kurzer Entfernung eine Tankstelle ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-109.jpg"
+    },
+    {
+        "id": "21337",
+        "text": "Il segnale raffigurato indica che lungo la strada, a breve distanza, vi è un distributore di carburante",
+        "text_translated": "Das abgebildete Schild zeigt an, dass entlang der Straße in kurzer Entfernung eine Tankstelle ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-110.jpg"
+    },
+    {
+        "id": "21338",
+        "text": "Il segnale raffigurato indica un'officina di assistenza meccanica nelle vicinanze",
+        "text_translated": "Das abgebildete Schild zeigt eine Kfz-Werkstatt in der Nähe an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-111.jpg"
+    },
+    {
+        "id": "21339",
+        "text": "Il segnale raffigurato indica un posto telefonico pubblico nelle vicinanze",
+        "text_translated": "Das abgebildete Schild zeigt an, dass sich in der Nähe eine öffentliche Telefonzelle befindet",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-112.jpg"
+    },
+    {
+        "id": "21340",
+        "text": "Il segnale raffigurato indica che nelle vicinanze vi è un'area di sosta per autoveicoli",
+        "text_translated": "Das abgebildete Schild zeigt an, dass sich in der Nähe ein Parkplatz für Kraftfahrzeuge befindet",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-113.jpg"
+    },
+    {
+        "id": "21341",
+        "text": "Il segnale raffigurato indica un distributore di carburante riservato solo ai veicoli alimentati a GPL",
+        "text_translated": "Das abgebildete Schild zeigt an, dass in der Nähe eine Tankstelle nur für Fahrzeuge mit Flüssiggas betrieben wird",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-114.jpg"
+    },
+    {
+        "id": "21342",
+        "text": "Il segnale raffigurato indica una raffineria",
+        "text_translated": "Das abgebildete Schild zeigt ein Raffinerie an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-115.jpg"
+    },
+    {
+        "id": "21343",
+        "text": "Il segnale raffigurato vieta il transito ai veicoli che trasportano carburante",
+        "text_translated": "Das abgebildete Schild verbietet den Durchgang von Fahrzeugen, die Brennstoff transportieren",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-116.jpg"
+    },
+    {
+        "id": "21891",
+        "text": "Il segnale raffigurato indica ai veicoli di massa effettiva superiore a 7 tonnellate diretti a Lucca di cambiare strada",
+        "text_translated": "Das abgebildete Schild zeigt an, dass Fahrzeuge mit einem tatsächlichen Gewicht über 7 Tonnen, die nach Lucca fahren, die Straße wechseln sollen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-117.jpg"
+    },
+    {
+        "id": "21892",
+        "text": "Il segnale raffigurato consente agli autocarri di massa a pieno carico inferiore a 7 tonnellate di proseguire diritto",
+        "text_translated": "Das abgebildete Schild erlaubt Lastkraftwagen mit einem zulässigen Gesamtgewicht von weniger als 7 Tonnen, geradeaus weiterzufahren",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-118.jpg"
+    },
+    {
+        "id": "21893",
+        "text": "Il segnale raffigurato non consente ai veicoli di massa effettiva superiore a 7 tonnellate diretti a Lucca di proseguire diritto",
+        "text_translated": "Das abgebildete Schild erlaubt Fahrzeugen mit einem tatsächlichen Gewicht von mehr als 7 Tonnen, die nach Lucca fahren, nicht geradeaus weiterzufahren",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-119.jpg"
+    },
+    {
+        "id": "21894",
+        "text": "Il segnale raffigurato indica una limitazione di transito su un tratto di strada per i veicoli di massa effettiva superiore a 7 tonnellate",
+        "text_translated": "Das abgebildete Schild weist auf eine Beschränkung des Durchgangs für Fahrzeuge mit einem tatsächlichen Gewicht von mehr als 7 Tonnen auf einem bestimmten Straßenabschnitt hin",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-120.jpg"
+    },
+    {
+        "id": "21895",
+        "text": "Il segnale raffigurato viene posto in vicinanza di un incrocio che anticipa un cantiere stradale",
+        "text_translated": "Das abgebildete Schild wird in der Nähe einer Kreuzung platziert, die eine Baustelle ankündigt",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-121.jpg"
+    },
+    {
+        "id": "21896",
+        "text": "Il segnale raffigurato fa parte dei segnali temporanei per cantieri di lavoro sulla strada",
+        "text_translated": "Das abgebildete Schild ist Teil der temporären Schilder für Baustellen auf der Straße",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-122.jpg"
+    },
+    {
+        "id": "21897",
+        "text": "Il segnale raffigurato indica, a tutti i veicoli, che non è possibile proseguire diritto per Lucca",
+        "text_translated": "Das abgebildete Schild zeigt allen Fahrzeugen an, dass sie nicht geradeaus nach Lucca fahren können",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-123.jpg"
+    },
+    {
+        "id": "21898",
+        "text": "Il segnale raffigurato obbliga tutti i veicoli a svoltare a destra al bivio seguente",
+        "text_translated": "Das abgebildete Schild zwingt alle Fahrzeuge, an der nächsten Kreuzung rechts abzubiegen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-124.jpg"
+    },
+    {
+        "id": "21899",
+        "text": "Il segnale raffigurato vieta il sorpasso agli autoveicoli di massa totale superiore a 7 tonnellate",
+        "text_translated": "Das abgebildete Schild verbietet das Überholen von Kraftfahrzeugen mit einem Gesamtgewicht von über 7 Tonnen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-125.jpg"
+    },
+    {
+        "id": "21900",
+        "text": "Il segnale raffigurato vieta il transito ai veicoli che superano 7 metri di lunghezza",
+        "text_translated": "Das abgebildete Schild verbietet die Durchfahrt für Fahrzeuge über 7 Meter Länge",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-126.jpg"
+    },
+    {
+        "id": "21223",
+        "text": "Il segnale raffigurato è di conferma autostradale",
+        "text_translated": "Das abgebildete Schild ist ein Bestätigungsschild für Autobahnen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-127.jpg"
+    },
+    {
+        "id": "21225",
+        "text": "Il segnale raffigurato se di colore blu, si trova su strade extraurbane",
+        "text_translated": "Das abgebildete Schild, wenn blau, befindet sich auf Landstraßen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-128.jpg"
+    },
+    {
+        "id": "21226",
+        "text": "Il segnale raffigurato è posto su un'autostrada",
+        "text_translated": "Das abgebildete Schild ist an einer Autobahn angebracht",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-129.jpg"
+    },
+    {
+        "id": "21227",
+        "text": "Il segnale raffigurato indica che mancano 180 chilometri per Firenze",
+        "text_translated": "Das abgebildete Schild zeigt an, dass noch 180 Kilometer bis nach Florenz verbleiben",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-130.jpg"
+    },
+    {
+        "id": "21228",
+        "text": "Il segnale raffigurato indica in autostrada la distanza delle località raggiungibili",
+        "text_translated": "Das abgebildete Schild gibt auf der Autobahn die Entfernung zu erreichbaren Ortschaften an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-131.jpg"
+    },
+    {
+        "id": "21229",
+        "text": "Il segnale raffigurato indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate",
+        "text_translated": "Das abgebildete Schild zeigt an, dass Sie alle angegebenen Ortschaften beim Verlassen der ersten Autobahnausfahrt erreichen können",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-132.jpg"
+    },
+    {
+        "id": "21230",
+        "text": "Il segnale raffigurato indica che per raggiungere Milano bisogna percorrere l'autostrada n. 472",
+        "text_translated": "Das abgebildete Schild zeigt an, dass Sie die Autobahn Nr. 472 nehmen müssen, um Mailand zu erreichen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-133.jpg"
+    },
+    {
+        "id": "21231",
+        "text": "Il segnale raffigurato indica che mancano 180 chilometri per l'area di servizio di Firenze",
+        "text_translated": "Das abgebildete Schild zeigt an, dass noch 180 Kilometer bis zum Rastplatz Florenz fehlen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-134.jpg"
+    },
+    {
+        "id": "21232",
+        "text": "Il segnale raffigurato indica, per ogni località, il numero della strada da percorrere",
+        "text_translated": "Das abgebildete Schild gibt für jede Ortschaft die zu befahrende Straßennummer an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-135.jpg"
+    },
+    {
+        "id": "21233",
+        "text": "Il segnale raffigurato indica i chilometri già fatti dalle località indicate",
+        "text_translated": "Das abgebildete Schild zeigt die bereits zurückgelegten Kilometer zu den angegebenen Orten an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-136.jpg"
+    },
+    {
+        "id": "21234",
+        "text": "Il segnale raffigurato è posto sulle strade extraurbane",
+        "text_translated": "Das abgebildete Schild befindet sich an Landstraßen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-137.jpg"
+    },
+    {
+        "id": "21235",
+        "text": "Il segnale raffigurato indica un itinerario di strada internazionale",
+        "text_translated": "Das abgebildete Schild zeigt eine internationale Strecke an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-138.jpg"
+    },
+    {
+        "id": "21236",
+        "text": "Il segnale raffigurato indica il numero della classificazione internazionale della strada",
+        "text_translated": "Das abgebildete Schild zeigt die Nummer der internationalen Straßenklassifizierung an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-139.jpg"
+    },
+    {
+        "id": "21237",
+        "text": "Il segnale raffigurato è posto su strade di importanza internazionale",
+        "text_translated": "Das abgebildete Schild befindet sich an Straßen von internationaler Bedeutung",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-140.jpg"
+    },
+    {
+        "id": "21243",
+        "text": "Il segnale raffigurato indica la velocità massima da tenere su quella strada",
+        "text_translated": "Das abgebildete Schild zeigt die maximale Geschwindigkeit auf dieser Straße an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-146.jpg"
+    },
+    {
+        "id": "21244",
+        "text": "Il segnale raffigurato indica il numero del cavalcavia",
+        "text_translated": "Das abgebildete Schild zeigt die Nummer der Autobahnbrücke an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-147.jpg"
+    },
+    {
+        "id": "21245",
+        "text": "Il segnale raffigurato indica che sono stati percorsi 55 chilometri dal punto di origine dell'autostrada",
+        "text_translated": "Das abgebildete Schild zeigt an, dass 55 Kilometer ab dem Ursprungspunkt der Autobahn zurückgelegt wurden",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-148.jpg"
+    },
+    {
+        "id": "21246",
+        "text": "Il segnale raffigurato indica il tipo ed il numero di strada percorsa",
+        "text_translated": "Das abgebildete Schild zeigt den Typ und die Nummer der befahrenen Straße an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-149.jpg"
+    },
+    {
+        "id": "21247",
+        "text": "Il segnale raffigurato si può trovare all'interno di un segnale di direzione o di bivio stradale",
+        "text_translated": "Das abgebildete Schild kann innerhalb eines Richtungsschildes oder eines Straßenkreuzes gefunden werden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-150.jpg"
+    },
+    {
+        "id": "21248",
+        "text": "Il segnale raffigurato indica che la strada su cui viaggiamo è una strada statale",
+        "text_translated": "Das abgebildete Schild zeigt an, dass die Straße, auf der wir fahren, eine Staatsstraße ist",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-151.jpg"
+    },
+    {
+        "id": "21249",
+        "text": "Il segnale raffigurato indica che stiamo percorrendo la strada statale n. 2",
+        "text_translated": "Das abgebildete Schild zeigt an, dass wir die Staatsstraße Nr. 2 befahren",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-152.jpg"
+    },
+    {
+        "id": "21250",
+        "text": "Il segnale raffigurato indica il numero di piazzole di sosta",
+        "text_translated": "Das abgebildete Schild zeigt die Anzahl der Rastplätze an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-153.jpg"
+    },
+    {
+        "id": "21251",
+        "text": "Il segnale raffigurato indica una strada sdrucciolevole per 2 chilometri",
+        "text_translated": "Das abgebildete Schild zeigt eine rutschige Straße für 2 Kilometer an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-154.jpg"
+    },
+    {
+        "id": "21252",
+        "text": "Il segnale raffigurato indica una strada stretta per 2 chilometri",
+        "text_translated": "Das abgebildete Schild zeigt eine enge Straße für 2 Kilometer an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-155.jpg"
+    },
+    {
+        "id": "21253",
+        "text": "Il segnale raffigurato indica una strada senza uscita a 2 chilometri",
+        "text_translated": "Das abgebildete Schild zeigt eine Sackgasse in 2 Kilometern Entfernung an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-156.jpg"
+    },
+    {
+        "id": "21254",
+        "text": "Il segnale raffigurato indica una strada senza segnaletica per 2 chilometri",
+        "text_translated": "Das abgebildete Schild zeigt eine Straße ohne Beschilderung für 2 Kilometer an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-157.jpg"
+    },
+    {
+        "id": "21255",
+        "text": "Il segnale raffigurato indica una strada sterrata",
+        "text_translated": "Das abgebildete Schild zeigt eine unbefestigte Straße an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-158.jpg"
+    },
+    {
+        "id": "21256",
+        "text": "Il segnale raffigurato si può trovare all'inizio di una strada comunale",
+        "text_translated": "Das abgebildete Schild kann am Anfang einer Gemeindestraße gefunden werden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-159.jpg"
+    },
+    {
+        "id": "21257",
+        "text": "Il segnale raffigurato si può trovare a completamento dei segnali di direzione",
+        "text_translated": "Das abgebildete Schild kann als Ergänzung zu den Richtungsschildern gefunden werden",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-160.jpg"
+    },
+    {
+        "id": "21258",
+        "text": "Il segnale raffigurato identifica una strada comunale",
+        "text_translated": "Das abgebildete Schild kennzeichnet eine Gemeindestraße",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-161.jpg"
+    },
+    {
+        "id": "21259",
+        "text": "Il segnale raffigurato si può trovare lungo la strada comunale n. 19",
+        "text_translated": "Das abgebildete Schild findet man entlang der Gemeindestraße Nr. 19",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-162.jpg"
+    },
+    {
+        "id": "21260",
+        "text": "Il segnale raffigurato si trova a diciannove chilometri dalla più vicina Stazione dei Carabinieri",
+        "text_translated": "Das abgebildete Schild befindet sich neunzehn Kilometer von der nächsten Polizeistation der Carabinieri entfernt",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-163.jpg"
+    },
+    {
+        "id": "21261",
+        "text": "Il segnale raffigurato si trova all'inizio di una strada di campagna",
+        "text_translated": "Das abgebildete Schild befindet sich am Anfang einer Landstraße",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-164.jpg"
+    },
+    {
+        "id": "21262",
+        "text": "Il segnale raffigurato si trova dove la strada è percorribile solo con catene da neve",
+        "text_translated": "Das abgebildete Schild befindet sich an einer Stelle, an der die Straße nur mit Schneeketten befahrbar ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-165.jpg"
+    },
+    {
+        "id": "21263",
+        "text": "Il segnale raffigurato si trova su strade dove la sosta è consentita dopo le ore 19.00",
+        "text_translated": "Das abgebildete Schild befindet sich an Straßen, wo das Parken nach 19:00 Uhr erlaubt ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-166.jpg"
+    },
+    {
+        "id": "21264",
+        "text": "Il segnale raffigurato indica, su strada urbana, il numero del cavalcavia",
+        "text_translated": "Das abgebildete Schild gibt auf städtischen Straßen die Nummer der Überführung an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-167.jpg"
+    },
+    {
+        "id": "21266",
+        "text": "Il segnale raffigurato indica un'area da campeggio con tende e sosta per caravan ed autocaravan",
+        "text_translated": "Das abgebildete Schild zeigt einen Campingplatz mit Zelten und Stellplätzen für Wohnwagen und Wohnmobile an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-168.jpg"
+    },
+    {
+        "id": "21267",
+        "text": "Il segnale raffigurato indica una zona destinata alla sosta di caravan ed autocaravan ed al campeggio",
+        "text_translated": "Das abgebildete Schild zeigt einen Bereich für das Abstellen von Wohnwagen und Wohnmobilen und zum Campen an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-169.jpg"
+    },
+    {
+        "id": "21268",
+        "text": "Il segnale raffigurato indica che è consentito il campeggio e la sosta di caravan ed autocaravan",
+        "text_translated": "Das abgebildete Schild zeigt an, dass Camping und das Abstellen von Wohnwagen und Wohnmobilen erlaubt sind",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-170.jpg"
+    },
+    {
+        "id": "21269",
+        "text": "Il segnale raffigurato indica un divieto di sosta per caravan e per i veicoli da campeggio",
+        "text_translated": "Das abgebildete Schild zeigt ein Halteverbot für Wohnmobile und Campingfahrzeuge an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-171.jpg"
+    },
+    {
+        "id": "21270",
+        "text": "Il segnale raffigurato indica una zona panoramica",
+        "text_translated": "Das abgebildete Schild zeigt einen Panoramabereich an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-172.jpg"
+    },
+    {
+        "id": "21271",
+        "text": "Il segnale raffigurato indica un'officina di riparazione veicoli da campeggio nelle vicinanze",
+        "text_translated": "Das abgebildete Schild zeigt eine Werkstatt für die Reparatur von Campingfahrzeugen in der Nähe an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-173.jpg"
+    },
+    {
+        "id": "21272",
+        "text": "Il segnale raffigurato indica una postazione mobile di Polizia nelle vicinanze",
+        "text_translated": "Das abgebildete Schild zeigt eine mobile Polizeistation in der Nähe an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-174.jpg"
+    },
+    {
+        "id": "21273",
+        "text": "Il segnale raffigurato indica un posto mobile di pronto soccorso nelle vicinanze",
+        "text_translated": "Das abgebildete Schild zeigt eine mobile Notfallstation in der Nähe an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-175.jpg"
+    },
+    {
+        "id": "21274",
+        "text": "Il segnale raffigurato indica l'indirizzo ed i numeri telefonici del più vicino comando della polizia stradale",
+        "text_translated": "Das abgebildete Schild zeigt die Adresse und Telefonnummern der nächstgelegenen Verkehrspolizei an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-176.jpg"
+    },
+    {
+        "id": "21275",
+        "text": "Il segnale raffigurato indica la località ed i numeri di telefono del più vicino comando di polizia stradale",
+        "text_translated": "Das abgebildete Schild zeigt den Standort und Telefonnummern der nächstgelegenen Verkehrspolizei an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-177.jpg"
+    },
+    {
+        "id": "21276",
+        "text": "Il segnale raffigurato indica la sede ed il numero telefonico del più vicino comando di polizia stradale",
+        "text_translated": "Das abgebildete Schild zeigt den Standort und die Telefonnummer der nächstgelegenen Verkehrspolizei an",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-178.jpg"
+    },
+    {
+        "id": "21277",
+        "text": "Il segnale raffigurato riporta alcuni dati (località, via, telefoni) del più vicino comando di polizia stradale",
+        "text_translated": "Das abgebildete Schild enthält einige Daten (Ort, Straße, Telefonnummern) der nächstgelegenen Verkehrspolizei",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-179.jpg"
+    },
+    {
+        "id": "21278",
+        "text": "Il segnale raffigurato indica un posto di blocco della polizia",
+        "text_translated": "Das abgebildete Schild zeigt einen Polizeikontrollpunkt an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-180.jpg"
+    },
+    {
+        "id": "21279",
+        "text": "Il segnale raffigurato indica una strada interrotta per incidente stradale",
+        "text_translated": "Das abgebildete Schild zeigt eine Straße, die aufgrund eines Verkehrsunfalls unterbrochen ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-181.jpg"
+    },
+    {
+        "id": "21280",
+        "text": "Il segnale raffigurato indica una zona riservata al parcheggio dei veicoli della polizia",
+        "text_translated": "Das abgebildete Schild zeigt einen Bereich, der dem Parken von Polizeifahrzeugen vorbehalten ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-182.jpg"
+    },
+    {
+        "id": "21281",
+        "text": "Il segnale raffigurato indica la possibilità di incrociare una colonna di veicoli della polizia",
+        "text_translated": "Das abgebildete Schild weist darauf hin, dass es möglich ist, auf eine Kolonne von Polizeifahrzeugen zu stoßen",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-183.jpg"
+    },
+    {
+        "id": "21282",
+        "text": "Il segnale raffigurato indica un tratto di strada riservato alla polizia",
+        "text_translated": "Das abgebildete Schild zeigt einen Straßenabschnitt, der der Polizei vorbehalten ist",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-184.jpg"
+    },
+    {
+        "id": "21912",
+        "text": "Il segnale raffigurato, posto in presenza di lavori stradali, indica alle categorie di veicoli quali corsie possono occupare",
+        "text_translated": "Das abgebildete Schild, das bei Straßenarbeiten angebracht ist, zeigt den Fahrzeugkategorien, welche Fahrspuren sie nutzen können",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-185.jpg"
+    },
+    {
+        "id": "21913",
+        "text": "Il segnale raffigurato viene utilizzato per indicare l'uso delle corsie",
+        "text_translated": "Das abgebildete Schild wird verwendet, um die Nutzung der Fahrspuren anzuzeigen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-186.jpg"
+    },
+    {
+        "id": "21914",
+        "text": "Il segnale raffigurato indica ai veicoli su quali corsie debbono circolare",
+        "text_translated": "Das abgebildete Schild gibt den Fahrzeugen an, auf welchen Spuren sie fahren müssen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-187.jpg"
+    },
+    {
+        "id": "21915",
+        "text": "Il segnale raffigurato indica agli autocarri di massa complessiva superiore a 3,5 tonnellate quale corsia debbono percorrere",
+        "text_translated": "Das abgebildete Schild gibt Lkw mit einem zulässigen Gesamtgewicht von mehr als 3,5 Tonnen an, welche Spur sie benutzen müssen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-188.jpg"
+    },
+    {
+        "id": "21916",
+        "text": "Il segnale raffigurato indica che gli autocarri di massa complessiva superiore a 3,5 tonnellate possono percorrere solo la corsia di destra",
+        "text_translated": "Das abgebildete Schild zeigt an, dass Lkw mit einem zulässigen Gesamtgewicht von mehr als 3,5 Tonnen nur die rechte Spur befahren dürfen",
+        "is_true": "VERO",
+        "has_image": "images\\DomandeB.pdf-image-189.jpg"
+    },
+    {
+        "id": "21917",
+        "text": "Il segnale raffigurato indica l'avvicinarsi di un casello autostradale",
+        "text_translated": "Das abgebildete Schild zeigt die Annäherung an eine Autobahnausfahrt an",
+        "is_true": "FALSO",
+        "has_image": "images\\DomandeB.pdf-image-190.jpg"
+    }
+]

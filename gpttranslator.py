@@ -34,14 +34,10 @@ if __name__ == "__main__":
     num_unique_images = extract_images_from_pdf(pdf_path)
     print(f"Found {num_unique_images} unique images.")
     '''
-
-
-
-
-import clipboard
+import time
+import requests
 import fitz
 import re
-from deep_translator import GoogleTranslator, ChatGptTranslator
 import json
 
 
@@ -81,9 +77,9 @@ def extract_quiz_data(pdf_path):
 
             if has_image:
                 quiz_data.append({
-                    'numero_domanda': numero_domanda,
-                    'testo_domanda': testo_domanda,
-                    'risposta_corretta': risposta_corretta,
+                    'id': numero_domanda,
+                    'text': testo_domanda,
+                    'is_true': risposta_corretta,
                     'has_image': f"images\DomandeB.pdf-image-{str(image_count).zfill(3)}.jpg"
                     # Indicates if there is an image on the page
                 })
@@ -91,9 +87,9 @@ def extract_quiz_data(pdf_path):
 
             else:
                 quiz_data.append({
-                    'numero_domanda': numero_domanda,
-                    'testo_domanda': testo_domanda,
-                    'risposta_corretta': risposta_corretta,
+                    'id': numero_domanda,
+                    'text': testo_domanda,
+                    'is_true': risposta_corretta,
                     'has_image': None  # Indicates if there is an image on the page
                 })
 
@@ -102,18 +98,64 @@ def extract_quiz_data(pdf_path):
 
 
 pdf_path = 'DomandeB.pdf'
+
 quiz_data = extract_quiz_data(pdf_path)
-print(f"Extracted {len(quiz_data)} questions from the PDF")
 
-i = 0
 
-from transformers import AutoTokenizer
-tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
+def translate(question):
+    full_response = "Error"
+    url = 'http://localhost:11434/api/generate'
 
-chat = [
-   {"role": "user", "content": "Hello, how are you?"},
-   {"role": "assistant", "content": "I'm doing great. How can I help you today?"},
-   {"role": "user", "content": "I'd like to show off how chat templating works!"},
-]
+    task = "Translate this Text from Italian to german."
+    information = "Only output the translated text not anything else," \
+                  "some information on translations: " \
+                  "segnale=Verkehrszeichen"
 
-tokenizer.apply_chat_template(chat, tokenize=False)
+    data = {
+        "model": "gemma2",
+        "prompt": f"{task} {information} : {question}"
+    }
+
+    response = requests.post(url, json=data)
+
+    if response.status_code == 200:
+        # Assuming the response text contains multiple JSON objects
+        responses = response.text.strip().split('\n')
+
+        # Concatenate all response fields
+        full_response = ''.join(json.loads(line)['response'] for line in responses if line.strip())
+
+
+    else:
+        print("Failed to get a response. Status code:", response.status_code)
+
+    return full_response
+
+
+try:
+    with open("questions.json", "r") as file:
+        existing_data = json.load(file)
+except (FileNotFoundError, json.JSONDecodeError):
+    existing_data = []
+
+
+for quiz in quiz_data:
+    old_time = time.time()
+
+    translated_text = translate(quiz["text"])
+
+    new_time = time.time()
+    print(f"Took {(new_time - old_time)}s to translate question {quiz['id']}")
+    # Create new entry
+    new_entry = {
+        'id': quiz['id'],
+        'text': quiz['text'],
+        'text_translated': translated_text,
+        'is_true': quiz['is_true'],
+        'has_image': quiz['has_image']
+    }
+
+    existing_data.append(new_entry)
+
+    with open("questions.json", "w") as file:
+        json.dump(existing_data, file)

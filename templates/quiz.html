@@ -119,10 +119,10 @@
                             <img src="{{ url_for('static', filename=question['has_image']) }}" alt="Question Image">
                         {% endif %}
                     </div>
-                    <p>{{ question['numero_domanda'] }}. {{ question['testo_domanda'] }}</p>
+                    <p>{{ question['id'] }}. {{ question['text_translated'] }}</p>
                     <div class="options">
-                        <input type="radio" name="{{ question['numero_domanda'] }}" value="VERO" required> Richtig
-                        <input type="radio" name="{{ question['numero_domanda'] }}" value="FALSO" required> Falsch
+                        <input type="radio" name="{{ question['id'] }}" value="VERO" required> Richtig
+                        <input type="radio" name="{{ question['id'] }}" value="FALSO" required> Falsch
                     </div>
                     <div class="clear"></div>
                 </div>
