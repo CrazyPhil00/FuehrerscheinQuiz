@@ -66,3 +66,4 @@ db.sqlite3
 
 # Sphinx documentation
 docs/_build/
+/newimages/
