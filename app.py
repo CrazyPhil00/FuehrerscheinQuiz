@@ -76,7 +76,7 @@ app = Flask(__name__)
 # Load the quiz data (already extracted in the previous step)
 # quiz_data = extract_quiz_data('DomandeB.pdf')
 
-with open("questions.json", "r") as file:
+with open("translated_quiz_data.json", "r") as file:
     quiz_data = json.load(file)
 
 

@@ -157,8 +157,9 @@ def main():
     translated_quiz_data = []
     filename = 'translated_quiz_data.json'
     batch_size = 5
+    start_at = int(input("At what point do you want to start. (0 = reset)"))
 
-    for idx in range(0, len(quiz_data), batch_size):
+    for idx in range(start_at, len(quiz_data), batch_size):
         batch = quiz_data[idx:idx + batch_size]
         # Prepare the list of questions as JSON
         questions = [{"id": q['id'], "text": q['text']} for q in batch]
